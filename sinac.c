@@ -46,7 +46,6 @@ int
 main (int argc, char* argv[])
 {
   Display* d;
-  Time idleTime;
   int i, idle;
   float wait = -1;
 
